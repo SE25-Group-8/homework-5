@@ -2,10 +2,10 @@
 INPUT = data.txt
 CLEANED = step1.txt
 STOPPED = step2.txt
-TOKENS = step3.txt
-FREQS = step4.txt
-TOP_WORDS = top.txt
-TABLE = table.txt
+TOKENS = tokens.txt
+FREQS = word_count.txt
+TOP_WORDS = step3.txt
+TABLE = step4.txt
 
 
 # Run the full pipeline
