@@ -1,9 +1,9 @@
 # Define variables
 INPUT = data.txt
-CLEANED = cleaned.txt
-STOPPED = stop.txt
-TOKENS = tokens.txt
-FREQS = word_counts.txt
+CLEANED = step1.txt
+STOPPED = step2.txt
+TOKENS = step3.txt
+FREQS = step4.txt
 TOP_WORDS = top.txt
 TABLE = table.txt
 
